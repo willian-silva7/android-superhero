@@ -24,4 +24,4 @@ Execute o aplicativo: Clique em "Run" ou use o atalho Shift + F10 para compilar 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
 
 ### Contato
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato conosco em <a href="mailto:seu-email@exemplo.com">seu-email@exemplo.com</a>.
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato conosco em <a href="mailto:will.oliver1994@hotmail.com">will.oliver1994@hotmail.com</a>.
